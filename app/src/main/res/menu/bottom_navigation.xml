@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mainFragment"
+        android:enabled="true"
+        android:icon="@drawable/menu_search_selector"
+        android:title="@string/menu_search"/>
+    <item
+        android:id="@+id/favouriteFragment"
+        android:enabled="true"
+        android:icon="@drawable/heart"
+        android:title="@string/menu_favourite"/>
+    <item
+        android:id="@+id/inviteFragment"
+        android:enabled="true"
+        android:icon="@drawable/menu_invites"
+        android:title="@string/menu_invites"/>
+    <item
+        android:id="@+id/signInFragment"
+        android:enabled="true"
+        android:icon="@drawable/menu_profile"
+        android:title="@string/profile"/>
+</menu>

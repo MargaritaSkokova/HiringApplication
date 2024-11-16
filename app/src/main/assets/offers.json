@@ -1,0 +1,24 @@
+[
+  {
+    "id": "near_vacancies",
+    "title": "Вакансии рядом с вами",
+    "link": "https://hh.ru/"
+  },
+  {
+    "id": "level_up_resume",
+    "title": "Поднять резюме в поиске",
+    "button": {
+      "text": "Поднять"
+    },
+    "link": "https://hh.ru/mentors?from\u003dfooter_new\u0026hhtmFromLabel\u003dfooter_new\u0026hhtmFrom\u003dmain\u0026purposeId\u003d1"
+  },
+  {
+    "id": "temporary_job",
+    "title": "Временная работа или подработка",
+    "link": "https://hh.ru/"
+  },
+  {
+    "title": "Полезные статьи и советы",
+    "link": "https://hh.ru/articles?hhtmFrom\u003dmain"
+  }
+]
